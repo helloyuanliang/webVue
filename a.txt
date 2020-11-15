@@ -1,2 +1,2 @@
-Git is a distributed version control system.
+Git is a distributed version control system. and is very easying
 Git and zenjia le "append log"
